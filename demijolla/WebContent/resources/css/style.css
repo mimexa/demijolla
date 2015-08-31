@@ -1,0 +1,54 @@
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background-color: #E0F5FF;
+}
+
+.container {
+	width: 75%;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+
+.headerDiv {
+	width: 100%;
+	vertical-align: middle;
+	line-height: 90px;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	border-radius: 5px;
+	width: 100%;
+}
+
+.blason {
+	width: 80px;
+	margin: 5px 0px 5px 10px;
+	float: left;
+	opacity: 0.9;
+}
+
+.title {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 5px;
+	color: white;
+	font-family: serif;
+	font-size: 30px;
+	color: white;
+}
+
+.bodyDiv {
+	text-align: left;
+	width: 75%;
+	margin: auto;
+	border-radius: 5px;
+	height: 80%;
+	position: absolute;
+	overflow-y: hidden;
+}
